@@ -3,7 +3,11 @@
   "version": "1.0.0",
   "description": "Middleware for parsing the Akamai EdgeScape header",
   "license": "MIT",
-  "repository": "madglory/edgescape-parser",
+  "homepage": "https://github.com/madglory/edgescape-parser",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/madglory/edgescape-parser"
+  },
   "author": {
     "name": "Blain Smith",
     "email": "rebelgeek@blainsmith.com",
